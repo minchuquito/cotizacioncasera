@@ -6,5 +6,6 @@ Practica de APIs con Python
 
 1)  Se utilizó una de las Apis sugeridas en el enunciado. (Cambio.Today)
 2)  Se utilizo Heroku para poner a disposicion el resultado final.
+3)  Para probar /path/src # python app.py
 
 https://cotizador-casero.herokuapp.com/
